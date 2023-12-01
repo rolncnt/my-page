@@ -1,0 +1,36 @@
+@import url("components/container.css");
+
+@import url("components/avatar.css");
+
+@import url("components/button.css");
+
+@import url("components/banner.css");
+
+@import url("components/card.css");
+
+body{
+	background-color:#9C50B6;
+	color:#221C35;
+	
+	font-size: 18px;
+	margin:0px;
+}
+
+
+h1{font-family: 'Dhurjati', sans-serif;
+	font-size: 70px;
+}
+
+p{font-family: 'Cutive Mono', monospace;
+font-weight: bold;
+margin-bottom: 60px;}
+
+h2{font-family:'Oswold',sans-serif;
+color:#08FF08;
+margin-bottom: 40px;
+}
+
+a{font-family: 'Cutive Mono', monospace;
+	text-decoration:none;
+}
+
